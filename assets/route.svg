@@ -17,72 +17,72 @@
 <text x="116.0" y="194.0" font-size="15" fill="#555a66" font-weight="700" text-anchor="middle">Start</text>
 <circle cx="210.0" cy="150.0" r="20" fill="#2a78d6"/>
 <text x="210.0" y="157.9" font-size="22" fill="#ffffff" font-weight="800" text-anchor="middle">1</text>
-<text x="242.0" y="120.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="start">Foundations</text>
-<text x="242.0" y="142.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="start">4 weeks at 10 hrs/week</text>
+<text x="242.0" y="114.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="start">Foundations</text>
+<text x="242.0" y="136.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="start">4 weeks at 10 hrs/week</text>
 <circle cx="300.0" cy="150.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
-<text x="309.0" y="174.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 309.0 174.0)">Python</text>
+<text x="309.0" y="174.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 309.0 174.0)">Python</text>
 <circle cx="480.0" cy="150.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
-<text x="489.0" y="174.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 489.0 174.0)">SQL</text>
+<text x="489.0" y="174.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 489.0 174.0)">SQL</text>
 <circle cx="660.0" cy="150.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
-<text x="669.0" y="174.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 669.0 174.0)">Git</text>
+<text x="669.0" y="174.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 669.0 174.0)">Git</text>
 <circle cx="840.0" cy="150.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
-<text x="849.0" y="174.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 849.0 174.0)">FastAPI &amp; REST</text>
+<text x="849.0" y="174.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 849.0 174.0)">FastAPI &amp; REST</text>
 <circle cx="1020.0" cy="150.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
-<text x="1029.0" y="174.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 1029.0 174.0)">LLM intuition</text>
+<text x="1029.0" y="174.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 1029.0 174.0)">LLM intuition</text>
 <circle cx="1130.0" cy="150.0" r="11" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
 <circle cx="1130.0" cy="150.0" r="5" fill="#1c1f26"/>
 <text x="1108.0" y="114.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="end">Build</text>
 <text x="1108.0" y="134.0" font-size="17" fill="#1c1f26" font-weight="800" text-anchor="end">LLM proxy API</text>
 <circle cx="1070.0" cy="350.0" r="20" fill="#eb6834"/>
 <text x="1070.0" y="357.9" font-size="22" fill="#ffffff" font-weight="800" text-anchor="middle">2</text>
-<text x="1038.0" y="320.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="end">LLM Engineering</text>
-<text x="1038.0" y="342.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="end">6 weeks at 10 hrs/week</text>
+<text x="1038.0" y="314.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="end">LLM Engineering</text>
+<text x="1038.0" y="336.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="end">6 weeks at 10 hrs/week</text>
 <circle cx="980.0" cy="350.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
-<text x="989.0" y="374.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 989.0 374.0)">Prompting</text>
+<text x="989.0" y="374.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 989.0 374.0)">Prompting</text>
 <circle cx="800.0" cy="350.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
-<text x="809.0" y="374.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 809.0 374.0)">Caching &amp; cost</text>
+<text x="809.0" y="374.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 809.0 374.0)">Caching &amp; cost</text>
 <circle cx="620.0" cy="350.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
-<text x="629.0" y="374.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 629.0 374.0)">Context engineering</text>
+<text x="629.0" y="374.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 629.0 374.0)">Context engineering</text>
 <circle cx="440.0" cy="350.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
-<text x="449.0" y="374.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 449.0 374.0)">RAG</text>
+<text x="449.0" y="374.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 449.0 374.0)">RAG</text>
 <circle cx="260.0" cy="350.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
-<text x="269.0" y="374.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 269.0 374.0)">MCP &amp; A2A</text>
+<text x="269.0" y="374.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 269.0 374.0)">MCP &amp; A2A</text>
 <circle cx="150.0" cy="350.0" r="11" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
 <circle cx="150.0" cy="350.0" r="5" fill="#1c1f26"/>
 <text x="172.0" y="314.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="start">Build</text>
 <text x="172.0" y="334.0" font-size="17" fill="#1c1f26" font-weight="800" text-anchor="start">Docs Q&amp;A with citations</text>
 <circle cx="210.0" cy="550.0" r="20" fill="#1baf7a"/>
 <text x="210.0" y="557.9" font-size="22" fill="#ffffff" font-weight="800" text-anchor="middle">3</text>
-<text x="242.0" y="520.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="start">Agents</text>
-<text x="242.0" y="542.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="start">5 weeks at 10 hrs/week</text>
+<text x="242.0" y="514.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="start">Agents</text>
+<text x="242.0" y="536.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="start">5 weeks at 10 hrs/week</text>
 <circle cx="300.0" cy="550.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
-<text x="309.0" y="574.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 309.0 574.0)">Agent design</text>
+<text x="309.0" y="574.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 309.0 574.0)">Agent design</text>
 <circle cx="480.0" cy="550.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
-<text x="489.0" y="574.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 489.0 574.0)">Memory</text>
+<text x="489.0" y="574.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 489.0 574.0)">Memory</text>
 <circle cx="660.0" cy="550.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
-<text x="669.0" y="574.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 669.0 574.0)">Frameworks</text>
+<text x="669.0" y="574.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 669.0 574.0)">Frameworks</text>
 <circle cx="840.0" cy="550.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
-<text x="849.0" y="574.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 849.0 574.0)">Safety &amp; reliability</text>
+<text x="849.0" y="574.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 849.0 574.0)">Safety &amp; reliability</text>
 <circle cx="1020.0" cy="550.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
-<text x="1029.0" y="574.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 1029.0 574.0)">Voice &amp; browser</text>
+<text x="1029.0" y="574.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 1029.0 574.0)">Voice &amp; browser</text>
 <circle cx="1130.0" cy="550.0" r="11" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
 <circle cx="1130.0" cy="550.0" r="5" fill="#1c1f26"/>
 <text x="1108.0" y="514.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="end">Build</text>
 <text x="1108.0" y="534.0" font-size="17" fill="#1c1f26" font-weight="800" text-anchor="end">Research agent with a sandbox</text>
 <circle cx="1070.0" cy="750.0" r="20" fill="#eda100"/>
 <text x="1070.0" y="757.9" font-size="22" fill="#ffffff" font-weight="800" text-anchor="middle">4</text>
-<text x="1038.0" y="720.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="end">Evaluation</text>
-<text x="1038.0" y="742.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="end">4 weeks at 10 hrs/week</text>
+<text x="1038.0" y="714.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="end">Evaluation</text>
+<text x="1038.0" y="736.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="end">4 weeks at 10 hrs/week</text>
 <circle cx="980.0" cy="750.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
-<text x="989.0" y="774.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 989.0 774.0)">Eval basics</text>
+<text x="989.0" y="774.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 989.0 774.0)">Eval basics</text>
 <circle cx="800.0" cy="750.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
-<text x="809.0" y="774.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 809.0 774.0)">Golden datasets</text>
+<text x="809.0" y="774.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 809.0 774.0)">Golden datasets</text>
 <circle cx="620.0" cy="750.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
-<text x="629.0" y="774.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 629.0 774.0)">LLM-as-a-judge</text>
+<text x="629.0" y="774.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 629.0 774.0)">LLM-as-a-judge</text>
 <circle cx="440.0" cy="750.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
-<text x="449.0" y="774.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 449.0 774.0)">RAG evals</text>
+<text x="449.0" y="774.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 449.0 774.0)">RAG evals</text>
 <circle cx="260.0" cy="750.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
-<text x="269.0" y="774.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 269.0 774.0)">Observability &amp; CI</text>
+<text x="269.0" y="774.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 269.0 774.0)">Observability &amp; CI</text>
 <circle cx="150.0" cy="750.0" r="11" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
 <circle cx="150.0" cy="750.0" r="5" fill="#1c1f26"/>
 <text x="172.0" y="714.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="start">Build</text>
@@ -90,18 +90,18 @@
 <text x="172.0" y="694.0" font-size="13" fill="#555a66" font-weight="400" text-anchor="start" font-style="italic">connects to line 2</text>
 <circle cx="210.0" cy="950.0" r="20" fill="#6250d6"/>
 <text x="210.0" y="957.9" font-size="22" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
-<text x="242.0" y="920.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="start">Production (LLMOps)</text>
-<text x="242.0" y="942.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="start">6 weeks at 10 hrs/week</text>
+<text x="242.0" y="914.0" font-size="22" fill="#1c1f26" font-weight="800" text-anchor="start">Production (LLMOps)</text>
+<text x="242.0" y="936.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="start">6 weeks at 10 hrs/week</text>
 <circle cx="300.0" cy="950.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
-<text x="309.0" y="974.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 309.0 974.0)">Fine-tuning</text>
+<text x="309.0" y="974.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 309.0 974.0)">Fine-tuning</text>
 <circle cx="480.0" cy="950.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
-<text x="489.0" y="974.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 489.0 974.0)">Inference</text>
+<text x="489.0" y="974.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 489.0 974.0)">Inference</text>
 <circle cx="660.0" cy="950.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
-<text x="669.0" y="974.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 669.0 974.0)">Cost &amp; latency</text>
+<text x="669.0" y="974.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 669.0 974.0)">Cost &amp; latency</text>
 <circle cx="840.0" cy="950.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
-<text x="849.0" y="974.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 849.0 974.0)">Security &amp; red teaming</text>
+<text x="849.0" y="974.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 849.0 974.0)">Security &amp; red teaming</text>
 <circle cx="1020.0" cy="950.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
-<text x="1029.0" y="974.0" font-size="14" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 1029.0 974.0)">Shipping &amp; operating</text>
+<text x="1029.0" y="974.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(45 1029.0 974.0)">Shipping &amp; operating</text>
 <circle cx="1130.0" cy="950.0" r="11" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
 <circle cx="1130.0" cy="950.0" r="5" fill="#1c1f26"/>
 <text x="1108.0" y="914.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="end">Build</text>
