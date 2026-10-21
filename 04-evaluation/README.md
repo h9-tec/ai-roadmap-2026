@@ -6,7 +6,7 @@
 
 ## Why this layer exists
 
-Evaluation is the skill where demand most clearly outruns supply: plenty of engineers can call a model, far fewer can prove it works. Most of the senior AI engineer job posts we read ask for eval pipelines, golden datasets, and LLM-as-a-judge, and they ask for them before any fine-tuning.
+The market analysis this roadmap is built on ranks evaluation as the skill with the widest gap between demand and supply, and reports that senior AI engineer postings ask for eval pipelines, golden datasets, and LLM-as-a-judge before fine-tuning.
 
 The reason is simple. LLM output changes every time you touch a prompt, swap a model, or re-chunk your documents. Without evals you cannot tell whether a change made your product better or just different. An eval is a fixed set of inputs, a way to score the outputs, and a record of those scores over time, so every change is measured instead of guessed.
 
@@ -63,7 +63,7 @@ This layer covers building golden datasets, using an LLM as a judge and checking
 
 ## Mini-project
 
-**Eval the Layer 2 project.** Take the docs Q&A server from the [Layer 2 mini-project](../02-llm-engineering/README.md) and build an eval suite for it. Write a 50-item golden set: real questions taken from your own logs, plus edge cases such as exact-name lookups and questions the docs do not answer, each with an expected answer and the docs page that supports it. Write an LLM judge that grades each answer for correctness and citation, label 20 answers yourself, and adjust the judge's rubric until it agrees with your labels. Send traces and scores to Langfuse or Phoenix, and add a CI job that runs the whole suite on every commit.
+**Eval the Layer 2 project.** Take the docs Q&A server from the [Layer 2 mini-project](../02-llm-engineering/README.md) and build an eval suite for it. Write a 50-item golden set: real questions taken from your own logs (or questions you write yourself if you have no logs), plus edge cases such as exact-name lookups and questions the docs do not answer, each with an expected answer and the docs page that supports it. Write an LLM judge that grades each answer for correctness and citation, label 20 answers yourself, and adjust the judge's rubric until it agrees with your labels. Send traces and scores to Langfuse or Phoenix, and add a CI job that runs the whole suite on every commit.
 
 **Done when:**
 
