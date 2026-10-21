@@ -4,7 +4,7 @@ Every link below is checked live with `scripts/check-links.sh`; to add one, read
 
 ## Layer 1: Foundations
 
-- **[The Python Tutorial](https://docs.python.org/3/tutorial/)** — docs · ~10h · The official tour of the language, including virtual environments and packages.
+- **[The Python Tutorial](https://docs.python.org/3/tutorial/)** — docs · ~10h · The official tour of the language, including virtual environments and packages; focus on chapters 3-9 and 12 (venv).
 - **[SQLBolt](https://sqlbolt.com/)** — course · ~3h · Short interactive lessons in the browser that take you from `SELECT` to joins and aggregates.
 - **[Pro Git](https://git-scm.com/book/en/v2)** — docs · ~6h · The free official Git book; chapters 1-3 and 6 cover daily use, branching, and GitHub pull requests.
 - **[FastAPI Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/)** — docs · ~8h · Step-by-step official guide to routes, Pydantic models, and background tasks; its "Concurrency and async / await" page is a clear intro to async.
@@ -49,7 +49,7 @@ Also linked from this layer's Topics:
 - **[vLLM documentation](https://docs.vllm.ai/en/latest/)** — docs · ~3h · The docs for an open-source inference engine; the home page lists its main speed features (PagedAttention, continuous batching, prefix caching, speculative decoding) and supported quantization formats, and the guides cover installation and its OpenAI-compatible server.
 - **[Latency optimization (OpenAI)](https://developers.openai.com/api/docs/guides/latency-optimization)** — docs · ~45m · Seven principles, most of which apply to any provider: process tokens faster, generate fewer tokens, use fewer input tokens, make fewer requests, parallelize, make users wait less, and don't default to an LLM, with a worked example; the companion [Cost optimization](https://developers.openai.com/api/docs/guides/cost-optimization) guide adds the Batch API and flex processing for cheaper, slower jobs.
 - **[OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/llm-top-10/)** — docs · ~3h · A free, community-written list of ten LLM app risks, from prompt injection and system prompt leakage to excessive agency and unbounded consumption; each entry explains the risk, ways to prevent it, and example attacks. To automate attacks against your own app, read promptfoo's [LLM red teaming guide](https://www.promptfoo.dev/docs/red-team/).
-- **[Run OpenAI-compatible LLM inference with vLLM (Modal)](https://modal.com/docs/examples/vllm_inference)** — docs · ~2h · A complete example that serves an open model with vLLM on a cloud GPU, deploys it with one command, tests it with a client script, and links a Locust load test; Modal's Starter plan includes $30 of free compute per month. To monitor it, see vLLM's [production metrics](https://docs.vllm.ai/en/latest/usage/metrics/) page: time to first token, end-to-end latency, KV cache usage, and queued requests.
+- **[Run OpenAI-compatible LLM inference with vLLM (Modal)](https://modal.com/docs/examples/vllm_inference)** — docs · ~2h · A complete example that serves an open model with vLLM on a cloud GPU, deploys it with one command, tests it with a client script, and links a Locust load test; Modal's Starter plan includes $30 of free compute per month (at the time of writing). To monitor it, see vLLM's [production metrics](https://docs.vllm.ai/en/latest/usage/metrics/) page: time to first token, end-to-end latency, KV cache usage, and queued requests.
 
 ## Market and careers
 
