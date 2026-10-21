@@ -25,7 +25,7 @@ This layer gets you both: the everyday engineering tools and just enough model i
 - [ ] Virtual environments (`venv`) and installing packages with `pip`
 - [ ] Type hints for functions and data (`str`, `list[int]`, `dict`, optional values)
 - [ ] `async` / `await`: what an event loop is and why it helps when waiting on network calls
-- [ ] Making HTTP requests with `httpx` (sync and async clients, timeouts)
+- [ ] Making HTTP requests with `httpx` (sync and async clients, timeouts); see the [HTTPX async guide](https://www.python-httpx.org/async/)
 
 **SQL**
 
@@ -60,7 +60,7 @@ This layer gets you both: the everyday engineering tools and just enough model i
 - **[SQLBolt](https://sqlbolt.com/)** — course · ~3h · Short interactive lessons in the browser that take you from `SELECT` to joins and aggregates.
 - **[Pro Git](https://git-scm.com/book/en/v2)** — docs · ~6h · The free official Git book; chapters 1-3 and 6 cover daily use, branching, and GitHub pull requests.
 - **[FastAPI Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/)** — docs · ~8h · Step-by-step official guide to routes, Pydantic models, and background tasks; its "Concurrency and async / await" page is a clear intro to async.
-- **[Transformers, the tech behind LLMs (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M)** — video · ~30m · A visual walk through tokens, embeddings, attention, and temperature without heavy math.
+- **[Transformers, the tech behind LLMs (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M)** — video · ~30m · A visual walk through tokens, embeddings, and attention (with a brief look at temperature); for top-p, follow up with Hugging Face's [How to generate text](https://huggingface.co/blog/how-to-generate).
 
 ## Mini-project
 
