@@ -32,7 +32,7 @@ Layer 4 (Evaluation) comes before Layer 3 here, so every later project ships wit
 | 3-5 | 2. LLM Engineering | Docs Q&A with citations |
 | 6-7 | 4. Evaluation | Eval suite for the docs Q&A |
 | 8-9 | 3. Agents | Research agent with a sandbox |
-| 10-12 | 5. Production | Research agent deployed with guardrails |
+| 10-12 | 5. Production (LLMOps) | Research agent deployed with guardrails |
 
 ## If you already know…
 

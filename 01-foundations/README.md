@@ -56,7 +56,7 @@ This layer gets you both: the everyday engineering tools and just enough model i
 
 ## Resources
 
-- **[The Python Tutorial](https://docs.python.org/3/tutorial/)** — docs · ~10h · The official tour of the language, including virtual environments and packages.
+- **[The Python Tutorial](https://docs.python.org/3/tutorial/)** — docs · ~10h · The official tour of the language, including virtual environments and packages; focus on chapters 3-9 and 12 (venv).
 - **[SQLBolt](https://sqlbolt.com/)** — course · ~3h · Short interactive lessons in the browser that take you from `SELECT` to joins and aggregates.
 - **[Pro Git](https://git-scm.com/book/en/v2)** — docs · ~6h · The free official Git book; chapters 1-3 and 6 cover daily use, branching, and GitHub pull requests.
 - **[FastAPI Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/)** — docs · ~8h · Step-by-step official guide to routes, Pydantic models, and background tasks; its "Concurrency and async / await" page is a clear intro to async.

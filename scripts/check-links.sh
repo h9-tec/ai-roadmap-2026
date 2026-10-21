@@ -5,7 +5,8 @@
 # Skips dot-directories (.git, .github, .superpowers, ...) and docs/superpowers.
 # Output: one line per link, "STATUS<TAB>FILE<TAB>URL", STATUS in
 #   OK | DEAD | SOFT404 | MISSING. Exit 0 iff every line is OK, else 1.
-# Notes: links are extracted with a regex, so links inside code fences are
+# Notes: only inline [text](url) links are checked (not reference-style
+# definitions or <autolinks>). Links are extracted with a regex, so links inside code fences are
 # checked too, and URLs containing ")" are truncated. Link titles
 # ([x](url "title")) are dropped; #fragments are stripped.
 set -u
@@ -39,7 +40,7 @@ while IFS= read -r -d '' f; do
   done
 done < <(find "$DIR" \( -name '.*' -o -path '*/docs/superpowers' \) -not -path "$DIR" -prune -o -name '*.md' -type f -print0)
 
-tr '\n' '\0' < "$TMP/http" | xargs -0 -P 8 -I{} bash -c 'IFS=$'"'"'\t'"'"' read -r f u <<< "$1"; check_http "$f" "$u"' _ {} >> "$TMP/out"
+tr '\n' '\0' < "$TMP/http" | xargs -0 -P 8 -n 1 bash -c 'IFS=$'"'"'\t'"'"' read -r f u <<< "$1"; check_http "$f" "$u"' _ >> "$TMP/out"
 
 cat "$TMP/out"
 ! grep -qv '^OK	' "$TMP/out"

@@ -10,6 +10,9 @@ Every link below is checked live with `scripts/check-links.sh`; to add one, read
 - **[FastAPI Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/)** — docs · ~8h · Step-by-step official guide to routes, Pydantic models, and background tasks; its "Concurrency and async / await" page is a clear intro to async.
 - **[Transformers, the tech behind LLMs (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M)** — video · ~30m · A visual walk through tokens, embeddings, and attention (with a brief look at temperature); for top-p, follow up with Hugging Face's [How to generate text](https://huggingface.co/blog/how-to-generate).
 
+Also linked from this layer's Topics:
+- [HTTPX async guide](https://www.python-httpx.org/async/)
+
 ## Layer 2: LLM Engineering
 
 - **[Prompting best practices (Anthropic)](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)** — docs · ~2h · The living reference for clear instructions, examples, XML structure, output formatting, and tool use; for JSON Schema outputs, read OpenAI's [Structured model outputs](https://developers.openai.com/api/docs/guides/structured-outputs) guide, which also explains when to use function calling instead.
@@ -18,6 +21,9 @@ Every link below is checked live with `scripts/check-links.sh`; to add one, read
 - **[Hybrid Search with Reranking (Qdrant)](https://qdrant.tech/documentation/tutorials-basics/reranking-hybrid-search/)** — docs · ~2h · A hands-on tutorial that combines dense vectors with BM25 sparse vectors, merges them with RRF, then reranks with a ColBERT model; it runs on Qdrant Cloud, which has a free tier.
 - **[Build an MCP server](https://modelcontextprotocol.io/docs/develop/build-server)** — docs · ~2h · The official tutorial: a short tour of tools, resources, and prompts, then a small weather server (in Python or one of several other languages) connected to a desktop chat app.
 
+Also linked from this layer's Topics:
+- [A2A protocol](https://a2a-protocol.org/latest/)
+
 ## Layer 3: Agents
 
 - **[Building effective agents (Anthropic)](https://www.anthropic.com/research/building-effective-agents)** — docs · ~45m · Defines workflows vs agents, walks through the main patterns (prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer), and advises starting simple, with stopping conditions and sandbox testing; an appendix covers tool design.
@@ -25,6 +31,9 @@ Every link below is checked live with `scripts/check-links.sh`; to add one, read
 - **[Running your first Sandbox (E2B)](https://docs.e2b.dev/quickstart)** — docs · ~1h · Gets an API key, creates a cloud sandbox from Python or JavaScript, runs code in it, and lists its files; new accounts get free credits. For a second option with timeouts, snapshots, and lifecycle controls, read Modal's [Sandboxes guide](https://modal.com/docs/guide/sandbox).
 - **[Voice agents (OpenAI)](https://developers.openai.com/api/docs/guides/voice-agents)** — docs · ~1h · Compares three designs (full-duplex GPT-Live, speech-to-speech with the Realtime API, and a chained speech-to-text, agent, text-to-speech pipeline), with build steps for each and how to measure latency; API use is paid, so for free local transcription try the open-source [Whisper](https://github.com/openai/whisper) models.
 - **[browser-use](https://github.com/browser-use/browser-use)** — repo · ~2h · An MIT-licensed Python library for browser agents; the README covers install, a first agent script, adding custom tools, and running with a local model. To give any MCP client a browser instead, see [Playwright MCP](https://github.com/microsoft/playwright-mcp).
+
+Also linked from this layer's Topics:
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework)
 
 ## Layer 4: Evaluation
 

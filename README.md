@@ -1,6 +1,6 @@
 # AI Roadmap 2026
 
-Per the market analysis this roadmap is built on, AI engineering in 2026 shifted from "train models" to "build reliable agentic systems" on top of models that already exist. The same analysis finds three skills repeated in every job description: RAG, Agents, and Evals. Per LinkedIn Jobs on the Rise 2026, AI Engineer is the fastest-growing job in the US, with 143% growth. This roadmap takes a beginner through those skills in five layers, each ending in a mini-project you can show. For job titles and the rest of the numbers, see [Careers](careers/README.md).
+Per the [market analysis](careers/README.md#sources) this roadmap is built on, AI engineering in 2026 shifted from "train models" to "build reliable agentic systems" on top of models that already exist. The same analysis finds three skills repeated in every job description: RAG, Agents, and Evals. Per LinkedIn Jobs on the Rise 2026, AI Engineer is the fastest-growing job in the US, with 143% growth. This roadmap takes a beginner through those skills in five layers, each ending in a mini-project you can show. For job titles and the rest of the numbers, see [Careers](careers/README.md).
 
 ```mermaid
 flowchart LR

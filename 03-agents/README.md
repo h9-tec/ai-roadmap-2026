@@ -4,7 +4,7 @@
 
 ## Why this layer exists
 
-Agents are the biggest shift in 2026 AI engineer job posts. A year or two ago, "has built an agent" was a nice extra on a CV. Now many posts list building agents as a core requirement: a model that calls tools in a loop, keeps track of what it has done, and works toward a goal over many steps.
+Agents are one of the biggest shifts in 2026 AI engineer job posts. A year or two ago, "has built an agent" was a nice extra on a CV. Now many posts list building agents as a core requirement: a model that calls tools in a loop, keeps track of what it has done, and works toward a goal over many steps.
 
 Getting an agent to work once, in a demo, is easy. The hard part is reliability: an agent that picks the wrong tool, loops forever, burns through a budget, or runs unsafe code is worse than no agent at all. Most of the real work is in the guardrails: clear tools, step and cost limits, sandboxes, and a human who can step in.
 

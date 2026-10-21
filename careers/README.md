@@ -16,7 +16,7 @@ These titles have the highest demand today. Per LinkedIn Jobs on the Rise 2026, 
 - **AI Product Manager**
 - **AI Solutions Architect**
 
-Per LinkedIn, the most common skills on AI engineer profiles are LangChain, RAG, and PyTorch. Building agents is now a core requirement in these posts, not a nice-to-have.
+Per LinkedIn, the most common skills on AI engineer profiles are LangChain, RAG, and PyTorch. Building agents is now a core requirement in AI engineer job posts, not a nice-to-have.
 
 ## New titles (2024–2026)
 
@@ -70,6 +70,8 @@ The takeaway, from the market analysis this roadmap is built on: the biggest loc
 If you invest one year of learning in one thing, the market analysis behind this roadmap says to make it evaluation engineering: eval pipelines, LLM-as-a-judge, and golden datasets. See [Layer 4](../04-evaluation/README.md).
 
 ## Sources
+
+The market analysis referred to across this repo is an Arabic-language write-up by the repo author, dated 21 October 2026, that synthesizes the reports listed below. It is not published separately; the figures it carries are credited to their original outlets where those could be verified.
 
 - The Agentic AI Engineer Roadmap for 2026 — Medium / Data Science Collective (not linked: URL not verified; the page returns 403 to automated checks and is a Medium article that may be paywalled)
 - [How to Become an AI Engineer: 2026 Roadmap](https://scrimba.com/articles/how-to-become-an-ai-engineer-a-developers-roadmap-for-2026) — Scrimba
