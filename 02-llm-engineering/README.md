@@ -6,7 +6,7 @@
 
 This is the core of AI engineering in 2026. Most of the work is not training models; it is getting a model that already exists to give reliable, useful answers inside a real product. That means good prompts, output your code can parse, and the right information in front of the model at the right time.
 
-Open a handful of AI engineer job posts and retrieval-augmented generation (RAG) is in nearly all of them: search your own documents, hand the best passages to the model, and get an answer grounded in them. Deciding what goes into the model's context window has become its own discipline, called context engineering. And when you want a model to use your tools and data, the Model Context Protocol (MCP) is the standard way to wire them in.
+Open a handful of AI engineer job posts and retrieval-augmented generation (RAG) is in most of them: search your own documents, hand the best passages to the model, and get an answer grounded in them. Deciding what goes into the model's context window has become its own discipline, called context engineering. And when you want a model to use your tools and data, the Model Context Protocol (MCP) is the standard way to wire them in.
 
 This layer covers all four: prompting and structured output, caching, context engineering with RAG, and MCP.
 
@@ -40,11 +40,12 @@ This layer covers all four: prompting and structured output, caching, context en
 
 **RAG**
 
-- [ ] Chunking documents and storing their embeddings in a vector database
+- [ ] Embedding models: they turn text into vectors; pick one by quality on your text, languages, and cost, and embed documents and queries with the same model
+- [ ] Chunking documents and storing their embeddings in a vector database such as Qdrant, Pinecone, or Weaviate
 - [ ] Hybrid search: BM25 keyword scores plus vector similarity, merged with reciprocal rank fusion (RRF)
 - [ ] Reranking: a second, slower model re-scores the top results before they reach the LLM
 - [ ] Grounded answers: citing the source of each claim, and saying "I don't know" when nothing relevant was found
-- [ ] GraphRAG: when a knowledge graph of entities and relationships beats plain chunk search
+- [ ] GraphRAG: when a knowledge graph of entities and relationships, stored in a graph database such as Neo4j, beats plain chunk search
 
 **Protocols**
 
