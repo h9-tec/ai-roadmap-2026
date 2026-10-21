@@ -1,2 +1,4 @@
 *.tmp
 .superpowers/
+.superpowers/
+.private/
