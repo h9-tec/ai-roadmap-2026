@@ -20,7 +20,7 @@ Per LinkedIn, the most common skills on AI engineer profiles are LangChain, RAG,
 
 ## New titles (2024–2026)
 
-<img src="../assets/careers-fde.svg" alt="Forward Deployed Engineer postings: about 200 in 2024, 1,200 in 2025, 5,200 or more in the first seven months of 2026" width="100%">
+<img src="../assets/fde.svg" alt="Forward Deployed Engineer postings: about 200 in 2024, 1,200 in 2025, 5,200 or more in the first seven months of 2026" width="100%">
 
 These titles were born between 2024 and 2026. The descriptions and figures come from the market analysis this roadmap is built on, which draws on the reports in [Sources](#sources). It names Forward Deployed Engineer as the most important new title.
 
@@ -41,7 +41,7 @@ Prompt Engineer as a standalone title is declining, per the same analysis: it ha
 
 ## The Gulf market
 
-<img src="../assets/careers-gulf.svg" alt="Share of Gulf AI roles: 35% implementing AI, 31% using AI in daily work, 25% selling AI products and services, 9% building the technology" width="100%">
+<img src="../assets/gulf.svg" alt="Share of Gulf AI roles: 35% implementing AI, 31% using AI in daily work, 25% selling AI products and services, 9% building the technology" width="100%">
 
 - **Share of jobs.** AI skills were mentioned in 3.4% of professional vacancies in Saudi Arabia, the UAE, and Qatar in the first half of 2026 (1 in 30 jobs), per a GulfTalent analysis of 118,000 vacancies (sources include Fast Company Middle East and MIT Sloan Management Review Middle East).
 - **Growth.** Per the same GulfTalent analysis, that share was 1.2% in 2022.
@@ -52,7 +52,7 @@ The takeaway, from the market analysis this roadmap is built on: the biggest loc
 
 ## Layer → title map
 
-<img src="../assets/careers-map.svg" alt="Grid of 14 job titles against the five layers, marking which layers each title requires or finds helpful" width="100%">
+<img src="../assets/titles.svg" alt="Grid of 14 job titles against the five layers, marking which layers each title requires or finds helpful" width="100%">
 
 ● = required, ○ = helpful, blank = not central to the role.
 

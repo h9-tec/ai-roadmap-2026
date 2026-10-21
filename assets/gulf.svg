@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t"><title id="t">Where the Gulf&#x27;s AI roles sit</title>
+<rect width="1280" height="360" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<text x="64.0" y="56.0" font-size="30" fill="#1c1f26" font-weight="800" text-anchor="start">Where the Gulf&#x27;s AI roles sit</text>
+<text x="64.0" y="84.0" font-size="15" fill="#555a66" font-weight="400" text-anchor="start">Share of AI-related roles in Saudi Arabia, the UAE, and Qatar, first half of 2026</text>
+<text x="382.0" y="138.0" font-size="16" fill="#1c1f26" font-weight="700" text-anchor="end">Implementing AI</text>
+<rect x="400" y="118" width="740" height="28" fill="#1baf7a" opacity="1"/>
+<text x="1152.0" y="139.0" font-size="18" fill="#1c1f26" font-weight="800" text-anchor="start">35%</text>
+<text x="382.0" y="188.0" font-size="16" fill="#555a66" font-weight="400" text-anchor="end">Using AI in daily work</text>
+<rect x="400" y="168" width="655" height="28" fill="#1baf7a" opacity="0.45"/>
+<text x="1067.4" y="189.0" font-size="18" fill="#1c1f26" font-weight="800" text-anchor="start">31%</text>
+<text x="382.0" y="238.0" font-size="16" fill="#555a66" font-weight="400" text-anchor="end">Selling AI products and services</text>
+<rect x="400" y="218" width="529" height="28" fill="#1baf7a" opacity="0.45"/>
+<text x="940.6" y="239.0" font-size="18" fill="#1c1f26" font-weight="800" text-anchor="start">25%</text>
+<text x="382.0" y="288.0" font-size="16" fill="#555a66" font-weight="400" text-anchor="end">Building the technology itself</text>
+<rect x="400" y="268" width="190" height="28" fill="#1baf7a" opacity="0.45"/>
+<text x="602.3" y="289.0" font-size="18" fill="#1c1f26" font-weight="800" text-anchor="start">9%</text>
+<text x="64.0" y="334.0" font-size="14" fill="#555a66" font-weight="400" text-anchor="start">Implementation and deployment roles are the biggest local opportunity. The Forward Deployed Engineer model fits best.</text>
+</g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t"><title id="t">12-week journey planner</title>
+<rect width="1280" height="300" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<text x="64.0" y="60.0" font-size="34" fill="#1c1f26" font-weight="800" text-anchor="start">12-week journey</text>
+<text x="64.0" y="90.0" font-size="15" fill="#555a66" font-weight="400" text-anchor="start">Roughly double the pace of the layer budgets, about 20 hrs/week. Evaluation is pulled forward so every later project ships with evals.</text>
+<path d="M96.0 190.0 L277.3 190.0" fill="none" stroke="#2a78d6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140.0" cy="190.0" r="13" fill="#2a78d6"/>
+<text x="140.0" y="195.0" font-size="14" fill="#ffffff" font-weight="800" text-anchor="middle">1</text>
+<circle cx="277.3" cy="190.0" r="10" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="277.3" cy="190.0" r="4" fill="#1c1f26"/>
+<text x="277.3" y="150.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="middle">LLM proxy API</text>
+<text x="277.3" y="168.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">week 2</text>
+<path d="M277.3 190.0 L549.3 190.0" fill="none" stroke="#eb6834" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="321.3" cy="190.0" r="13" fill="#eb6834"/>
+<text x="321.3" y="195.0" font-size="14" fill="#ffffff" font-weight="800" text-anchor="middle">2</text>
+<circle cx="549.3" cy="190.0" r="10" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="549.3" cy="190.0" r="4" fill="#1c1f26"/>
+<text x="549.3" y="242.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="middle">Docs Q&amp;A with citations</text>
+<text x="549.3" y="222.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">week 5</text>
+<path d="M549.3 190.0 L730.7 190.0" fill="none" stroke="#eda100" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="593.3" cy="190.0" r="13" fill="#eda100"/>
+<text x="593.3" y="195.0" font-size="14" fill="#ffffff" font-weight="800" text-anchor="middle">4</text>
+<circle cx="730.7" cy="190.0" r="10" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="730.7" cy="190.0" r="4" fill="#1c1f26"/>
+<text x="730.7" y="150.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="middle">Eval suite for the docs Q&amp;A</text>
+<text x="730.7" y="168.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">week 7</text>
+<path d="M730.7 190.0 L912.0 190.0" fill="none" stroke="#1baf7a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="774.7" cy="190.0" r="13" fill="#1baf7a"/>
+<text x="774.7" y="195.0" font-size="14" fill="#ffffff" font-weight="800" text-anchor="middle">3</text>
+<circle cx="912.0" cy="190.0" r="10" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="912.0" cy="190.0" r="4" fill="#1c1f26"/>
+<text x="912.0" y="242.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="middle">Research agent</text>
+<text x="912.0" y="222.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">week 9</text>
+<path d="M912.0 190.0 L1184.0 190.0" fill="none" stroke="#6250d6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="956.0" cy="190.0" r="13" fill="#6250d6"/>
+<text x="956.0" y="195.0" font-size="14" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
+<circle cx="1184.0" cy="190.0" r="10" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="1184.0" cy="190.0" r="4" fill="#1c1f26"/>
+<text x="1184.0" y="150.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="middle">Ship it</text>
+<text x="1184.0" y="168.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">week 12</text>
+<text x="141.3" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">1</text>
+<text x="232.0" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">2</text>
+<text x="322.7" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">3</text>
+<text x="413.3" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">4</text>
+<text x="504.0" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">5</text>
+<text x="594.7" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">6</text>
+<text x="685.3" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">7</text>
+<text x="776.0" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">8</text>
+<text x="866.7" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">9</text>
+<text x="957.3" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">10</text>
+<text x="1048.0" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">11</text>
+<text x="1138.7" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">12</text>
+<text x="86.0" y="290.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="end">week</text>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-labelledby="t"><title id="t">Suggest a stop</title>
+<rect width="1280" height="150" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<text x="64.0" y="66.0" font-size="32" fill="#1c1f26" font-weight="800" text-anchor="start">Suggest a stop</text>
+<text x="64.0" y="96.0" font-size="15" fill="#555a66" font-weight="400" text-anchor="start">How to add a resource, swap one out, or fix a page.</text>
+<circle cx="860.0" cy="75.0" r="17" fill="#2a78d6"/>
+<text x="860.0" y="81.5" font-size="18" fill="#ffffff" font-weight="800" text-anchor="middle">1</text>
+<path d="M877.0 75.0 L916.0 75.0" fill="none" stroke="#2a78d6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="933.0" cy="75.0" r="17" fill="#eb6834"/>
+<text x="933.0" y="81.5" font-size="18" fill="#ffffff" font-weight="800" text-anchor="middle">2</text>
+<path d="M950.0 75.0 L989.0 75.0" fill="none" stroke="#eb6834" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1006.0" cy="75.0" r="17" fill="#1baf7a"/>
+<text x="1006.0" y="81.5" font-size="18" fill="#ffffff" font-weight="800" text-anchor="middle">3</text>
+<path d="M1023.0 75.0 L1062.0 75.0" fill="none" stroke="#1baf7a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1079.0" cy="75.0" r="17" fill="#eda100"/>
+<text x="1079.0" y="81.5" font-size="18" fill="#ffffff" font-weight="800" text-anchor="middle">4</text>
+<path d="M1096.0 75.0 L1135.0 75.0" fill="none" stroke="#eda100" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1152.0" cy="75.0" r="17" fill="#6250d6"/>
+<text x="1152.0" y="81.5" font-size="18" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
+</g>
+</svg>

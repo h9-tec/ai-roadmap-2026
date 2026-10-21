@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="736" viewBox="0 0 1280 736" role="img" aria-labelledby="t"><title id="t">Which lines each job title needs</title>
+<rect width="1280" height="736" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<text x="64.0" y="56.0" font-size="30" fill="#1c1f26" font-weight="800" text-anchor="start">Which lines each title needs</text>
+<circle cx="72.0" cy="84.0" r="7" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="72.0" cy="84.0" r="2" fill="#1c1f26"/>
+<text x="88.0" y="89.0" font-size="14" fill="#555a66" font-weight="400" text-anchor="start">required</text>
+<circle cx="176.0" cy="84.0" r="6" fill="#ffffff" stroke="#1c1f26" stroke-width="3.5"/>
+<text x="192.0" y="89.0" font-size="14" fill="#555a66" font-weight="400" text-anchor="start">helpful</text>
+<circle cx="262" cy="84" r="2" fill="#9196a0"/>
+<text x="274.0" y="89.0" font-size="14" fill="#555a66" font-weight="400" text-anchor="start">not central. The marks are the roadmap&#x27;s own judgment, not a survey result.</text>
+<circle cx="720.0" cy="120.0" r="15" fill="#2a78d6"/>
+<text x="720.0" y="125.8" font-size="16" fill="#ffffff" font-weight="800" text-anchor="middle">1</text>
+<circle cx="830.0" cy="120.0" r="15" fill="#eb6834"/>
+<text x="830.0" y="125.8" font-size="16" fill="#ffffff" font-weight="800" text-anchor="middle">2</text>
+<circle cx="940.0" cy="120.0" r="15" fill="#1baf7a"/>
+<text x="940.0" y="125.8" font-size="16" fill="#ffffff" font-weight="800" text-anchor="middle">3</text>
+<circle cx="1050.0" cy="120.0" r="15" fill="#eda100"/>
+<text x="1050.0" y="125.8" font-size="16" fill="#ffffff" font-weight="800" text-anchor="middle">4</text>
+<circle cx="1160.0" cy="120.0" r="15" fill="#6250d6"/>
+<text x="1160.0" y="125.8" font-size="16" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
+<rect x="48" y="144" width="1184" height="34" fill="#ffffff" opacity="0.7"/>
+<text x="64.0" y="167.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">Forward Deployed Engineer (FDE)</text>
+<circle cx="720.0" cy="161.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830" cy="161" r="9" fill="#eb6834"/>
+<circle cx="940" cy="161" r="9" fill="#1baf7a"/>
+<circle cx="1050.0" cy="161.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160" cy="161" r="9" fill="#6250d6"/>
+<text x="64.0" y="201.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">Context Engineer</text>
+<circle cx="720.0" cy="195.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830" cy="195" r="9" fill="#eb6834"/>
+<circle cx="940" cy="195" r="9" fill="#1baf7a"/>
+<circle cx="1050.0" cy="195.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160" cy="195" r="2" fill="#9196a0"/>
+<rect x="48" y="212" width="1184" height="34" fill="#ffffff" opacity="0.7"/>
+<text x="64.0" y="235.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">AI Evaluation / Safety Engineer</text>
+<circle cx="720.0" cy="229.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830.0" cy="229.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940.0" cy="229.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
+<circle cx="1050" cy="229" r="9" fill="#eda100"/>
+<circle cx="1160" cy="229" r="9" fill="#6250d6"/>
+<text x="64.0" y="269.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">AI Reliability Engineer (AI SRE)</text>
+<circle cx="720.0" cy="263.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830.0" cy="263.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940.0" cy="263.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
+<circle cx="1050.0" cy="263.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160" cy="263" r="9" fill="#6250d6"/>
+<rect x="48" y="280" width="1184" height="34" fill="#ffffff" opacity="0.7"/>
+<text x="64.0" y="303.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">Agentic Workflow Architect</text>
+<circle cx="720.0" cy="297.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830" cy="297" r="9" fill="#eb6834"/>
+<circle cx="940" cy="297" r="9" fill="#1baf7a"/>
+<circle cx="1050.0" cy="297.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160.0" cy="297.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="64.0" y="337.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">AI Governance / Risk Director, AI Compliance Analyst</text>
+<circle cx="720" cy="331" r="2" fill="#9196a0"/>
+<circle cx="830.0" cy="331.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940.0" cy="331.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
+<circle cx="1050.0" cy="331.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160.0" cy="331.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<rect x="48" y="348" width="1184" height="34" fill="#ffffff" opacity="0.7"/>
+<text x="64.0" y="371.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">AI FinOps Specialist</text>
+<circle cx="720" cy="365" r="2" fill="#9196a0"/>
+<circle cx="830.0" cy="365.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940.0" cy="365.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
+<circle cx="1050" cy="365" r="2" fill="#9196a0"/>
+<circle cx="1160" cy="365" r="9" fill="#6250d6"/>
+<text x="64.0" y="405.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">Synthetic Data Curator, AI Data Governance Manager</text>
+<circle cx="720.0" cy="399.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830.0" cy="399.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940" cy="399" r="2" fill="#9196a0"/>
+<circle cx="1050.0" cy="399.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160" cy="399" r="2" fill="#9196a0"/>
+<rect x="48" y="416" width="1184" height="34" fill="#ffffff" opacity="0.7"/>
+<text x="64.0" y="439.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">AI Enablement / Adoption / Transformation Lead</text>
+<circle cx="720.0" cy="433.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830.0" cy="433.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940.0" cy="433.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
+<circle cx="1050" cy="433" r="2" fill="#9196a0"/>
+<circle cx="1160" cy="433" r="2" fill="#9196a0"/>
+<text x="64.0" y="473.0" font-size="15" fill="#1c1f26" font-weight="400" text-anchor="start">Chief AI Officer (CAIO)</text>
+<circle cx="720.0" cy="467.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830.0" cy="467.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940.0" cy="467.0" r="7" fill="#ffffff" stroke="#1baf7a" stroke-width="3.5"/>
+<circle cx="1050.0" cy="467.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160.0" cy="467.0" r="7" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<rect x="48" y="514" width="1184" height="34" fill="#ffffff" opacity="0.7"/>
+<text x="64.0" y="537.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start">AI Engineer</text>
+<circle cx="720" cy="531" r="9" fill="#2a78d6"/>
+<circle cx="830" cy="531" r="9" fill="#eb6834"/>
+<circle cx="940" cy="531" r="9" fill="#1baf7a"/>
+<circle cx="1050" cy="531" r="9" fill="#eda100"/>
+<circle cx="1160" cy="531" r="9" fill="#6250d6"/>
+<text x="64.0" y="571.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start">ML Engineer</text>
+<circle cx="720" cy="565" r="9" fill="#2a78d6"/>
+<circle cx="830.0" cy="565.0" r="7" fill="#ffffff" stroke="#eb6834" stroke-width="3.5"/>
+<circle cx="940" cy="565" r="2" fill="#9196a0"/>
+<circle cx="1050.0" cy="565.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160" cy="565" r="9" fill="#6250d6"/>
+<rect x="48" y="582" width="1184" height="34" fill="#ffffff" opacity="0.7"/>
+<text x="64.0" y="605.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start">MLOps Engineer</text>
+<circle cx="720" cy="599" r="9" fill="#2a78d6"/>
+<circle cx="830" cy="599" r="2" fill="#9196a0"/>
+<circle cx="940" cy="599" r="2" fill="#9196a0"/>
+<circle cx="1050.0" cy="599.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160" cy="599" r="9" fill="#6250d6"/>
+<text x="64.0" y="639.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start">AI Solutions Architect</text>
+<circle cx="720.0" cy="633.0" r="7" fill="#ffffff" stroke="#2a78d6" stroke-width="3.5"/>
+<circle cx="830" cy="633" r="9" fill="#eb6834"/>
+<circle cx="940" cy="633" r="9" fill="#1baf7a"/>
+<circle cx="1050.0" cy="633.0" r="7" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<circle cx="1160" cy="633" r="9" fill="#6250d6"/>
+<line x1="64" y1="498" x2="1216" y2="498" stroke="#9196a0" stroke-width="1.5" stroke-dasharray="6 6"/>
+<rect x="470.0" y="488" width="340" height="20" fill="#f1f2ec"/>
+<text x="640.0" y="502.0" font-size="12" fill="#9196a0" font-weight="400" text-anchor="middle">new titles from 2024 to 2026 above, established titles below</text>
+</g>
+</svg>

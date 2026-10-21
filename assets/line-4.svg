@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-labelledby="t"><title id="t">Line 4: Evaluation</title>
+<rect width="1280" height="230" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<circle cx="96.0" cy="84.0" r="34" fill="#eda100"/>
+<text x="96.0" y="97.0" font-size="36" fill="#ffffff" font-weight="800" text-anchor="middle">4</text>
+<text x="150.0" y="72.0" font-size="40" fill="#1c1f26" font-weight="800" text-anchor="start">Evaluation</text>
+<text x="150.0" y="100.0" font-size="15" fill="#555a66" font-weight="400" text-anchor="start">4 weeks at 10 hrs/week. The most-requested, least-common skill. Learn this one first.</text>
+<path d="M64.0 150.0 L1040.0 150.0" fill="none" stroke="#eda100" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="124.0" cy="150.0" r="8" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<text x="124.0" y="130.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Eval basics</text>
+<circle cx="315.5" cy="150.0" r="8" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<text x="315.5" y="184.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Golden datasets</text>
+<circle cx="507.0" cy="150.0" r="8" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<text x="507.0" y="130.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">LLM-as-a-judge</text>
+<circle cx="698.5" cy="150.0" r="8" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<text x="698.5" y="184.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">RAG evals</text>
+<circle cx="890.0" cy="150.0" r="8" fill="#ffffff" stroke="#eda100" stroke-width="3.5"/>
+<text x="890.0" y="130.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Observability &amp; CI</text>
+<circle cx="1040.0" cy="150.0" r="12" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="1040.0" cy="150.0" r="6" fill="#1c1f26"/>
+<text x="1040.0" y="190.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="middle">Eval the Layer 2 project</text>
+<text x="1040.0" y="128.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">Build</text>
+<path d="M1040.0 150.0 L1160.0 150.0" fill="none" stroke="#6250d6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1190.0" cy="150.0" r="18" fill="#6250d6"/>
+<text x="1190.0" y="156.8" font-size="19" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
+<text x="1216.0" y="156.0" font-size="14" fill="#9196a0" font-weight="400" text-anchor="start">next</text>
+</g>
+</svg>

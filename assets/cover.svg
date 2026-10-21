@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="t"><title id="t">AI Roadmap 2026</title>
+<rect width="1280" height="440" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<text x="64.0" y="118.0" font-size="74" fill="#1c1f26" font-weight="800" text-anchor="start">AI Roadmap</text>
+<text x="64.0" y="196.0" font-size="74" fill="#1c1f26" font-weight="800" text-anchor="start">2026</text>
+<text x="64.0" y="246.0" font-size="23" fill="#555a66" font-weight="400" text-anchor="start">From zero to AI engineer. Five lines, one route.</text>
+<circle cx="78.0" cy="296.0" r="12" fill="#2a78d6"/>
+<text x="78.0" y="301.4" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">1</text>
+<text x="102.0" y="302.0" font-size="16" fill="#1c1f26" font-weight="700" text-anchor="start">Foundations</text>
+<text x="210.6" y="302.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="start">4 weeks</text>
+<circle cx="78.0" cy="326.0" r="12" fill="#eb6834"/>
+<text x="78.0" y="331.4" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">2</text>
+<text x="102.0" y="332.0" font-size="16" fill="#1c1f26" font-weight="700" text-anchor="start">LLM Engineering</text>
+<text x="246.4" y="332.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="start">6 weeks</text>
+<circle cx="78.0" cy="356.0" r="12" fill="#1baf7a"/>
+<text x="78.0" y="361.4" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">3</text>
+<text x="102.0" y="362.0" font-size="16" fill="#1c1f26" font-weight="700" text-anchor="start">Agents</text>
+<text x="165.8" y="362.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="start">5 weeks</text>
+<circle cx="78.0" cy="386.0" r="12" fill="#eda100"/>
+<text x="78.0" y="391.4" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">4</text>
+<text x="102.0" y="392.0" font-size="16" fill="#1c1f26" font-weight="700" text-anchor="start">Evaluation</text>
+<text x="201.6" y="392.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="start">4 weeks</text>
+<circle cx="78.0" cy="416.0" r="12" fill="#6250d6"/>
+<text x="78.0" y="421.4" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
+<text x="102.0" y="422.0" font-size="16" fill="#1c1f26" font-weight="700" text-anchor="start">Production (LLMOps)</text>
+<text x="282.2" y="422.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="start">6 weeks</text>
+<path d="M620.0 380.0 L760.0 380.0" fill="none" stroke="#2a78d6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M760.0 380.0 L860.0 280.0" fill="none" stroke="#eb6834" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M860.0 280.0 L1000.0 280.0" fill="none" stroke="#1baf7a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1000.0 280.0 L1100.0 180.0" fill="none" stroke="#eda100" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1100.0 180.0 L1240.0 180.0" fill="none" stroke="#6250d6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="620" y1="362" x2="620" y2="398" stroke="#1c1f26" stroke-width="8" stroke-linecap="round"/>
+<text x="620.0" y="426.0" font-size="15" fill="#555a66" font-weight="700" text-anchor="middle">Start here</text>
+<circle cx="700.0" cy="380.0" r="7" fill="#ffffff" stroke="#1c1f26" stroke-width="3.5"/>
+<text x="710.0" y="366.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(-45 710.0 366.0)">Python</text>
+<circle cx="810.0" cy="330.0" r="7" fill="#ffffff" stroke="#1c1f26" stroke-width="3.5"/>
+<text x="820.0" y="316.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(-45 820.0 316.0)">RAG</text>
+<circle cx="930.0" cy="280.0" r="7" fill="#ffffff" stroke="#1c1f26" stroke-width="3.5"/>
+<text x="940.0" y="266.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(-45 940.0 266.0)">Agents</text>
+<circle cx="1050.0" cy="230.0" r="7" fill="#ffffff" stroke="#1c1f26" stroke-width="3.5"/>
+<text x="1060.0" y="216.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="start" transform="rotate(-45 1060.0 216.0)">Evals</text>
+<circle cx="1170.0" cy="180.0" r="11" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="1170.0" cy="180.0" r="5" fill="#1c1f26"/>
+<text x="1170.0" y="150.0" font-size="16" fill="#1c1f26" font-weight="800" text-anchor="middle">Ship it</text>
+<text x="1240.0" y="215.0" font-size="15" fill="#555a66" font-weight="700" text-anchor="end">Careers</text>
+</g>
+</svg>

@@ -1,6 +1,6 @@
 # Layer 5: Production (LLMOps)
 
-<img src="../assets/layer-5.svg" alt="Layer 5 of 5: Production (LLMOps)" width="100%">
+<img src="../assets/line-5.svg" alt="Line 5 strip map: its stations and the project at the end" width="100%">
 
 **Time budget:** ~6 weeks at ~10 hrs/week
 

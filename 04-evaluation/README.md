@@ -1,6 +1,6 @@
 # Layer 4: Evaluation
 
-<img src="../assets/layer-4.svg" alt="Layer 4 of 5: Evaluation" width="100%">
+<img src="../assets/line-4.svg" alt="Line 4 strip map: its stations and the project at the end" width="100%">
 
 **Time budget:** ~4 weeks at ~10 hrs/week
 

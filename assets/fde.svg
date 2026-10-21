@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="t"><title id="t">Forward Deployed Engineer postings</title>
+<rect width="1280" height="340" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<text x="64.0" y="56.0" font-size="30" fill="#1c1f26" font-weight="800" text-anchor="start">Forward Deployed Engineer, the title that took off</text>
+<text x="64.0" y="84.0" font-size="15" fill="#555a66" font-weight="400" text-anchor="start">Job postings per period. OpenAI, Google Cloud, Anthropic, and Palantir hire for it.</text>
+<line x1="140" y1="280" x2="1140" y2="280" stroke="#9196a0" stroke-width="1.5"/>
+<path d="M200.0 273.8 L640.0 243.1 L1080.0 120.0" fill="none" stroke="#6250d6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="200.0" cy="273.8" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="200.0" y="253.8" font-size="19" fill="#1c1f26" font-weight="800" text-anchor="middle">about 200</text>
+<text x="200.0" y="306.0" font-size="14" fill="#555a66" font-weight="400" text-anchor="middle">2024</text>
+<circle cx="640.0" cy="243.1" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="640.0" y="223.1" font-size="19" fill="#1c1f26" font-weight="800" text-anchor="middle">1,200</text>
+<text x="640.0" y="306.0" font-size="14" fill="#555a66" font-weight="400" text-anchor="middle">2025</text>
+<circle cx="1080.0" cy="120.0" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="1080.0" y="100.0" font-size="19" fill="#1c1f26" font-weight="800" text-anchor="middle">5,200+</text>
+<text x="1080.0" y="306.0" font-size="14" fill="#555a66" font-weight="400" text-anchor="middle">Jan to Jul 2026</text>
+</g>
+</svg>

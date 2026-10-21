@@ -22,6 +22,8 @@ Keep a public repo of your mini-projects. Each one builds on the last, and toget
 
 ## 12-week sample plan
 
+<img src="assets/planner.svg" alt="12-week journey: weeks 1 to 2 Foundations, 3 to 5 LLM Engineering, 6 to 7 Evaluation, 8 to 9 Agents, 10 to 12 Production, with a milestone at the end of each" width="100%">
+
 This plan is a compressed, near full-time path. It moves at roughly double the pace of the layer time budgets (about 25 weeks at ~10 hrs/week), so plan on about 20 hours a week.
 
 Layer 4 (Evaluation) comes before Layer 3 here, so every later project ships with evals.

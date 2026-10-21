@@ -1,6 +1,6 @@
 # Layer 2: LLM Engineering
 
-<img src="../assets/layer-2.svg" alt="Layer 2 of 5: LLM Engineering" width="100%">
+<img src="../assets/line-2.svg" alt="Line 2 strip map: its stations and the project at the end" width="100%">
 
 **Time budget:** ~6 weeks at ~10 hrs/week
 

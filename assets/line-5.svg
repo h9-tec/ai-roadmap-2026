@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-labelledby="t"><title id="t">Line 5: Production (LLMOps)</title>
+<rect width="1280" height="230" fill="#f1f2ec"/>
+<g font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" fill="#1c1f26">
+<circle cx="96.0" cy="84.0" r="34" fill="#6250d6"/>
+<text x="96.0" y="97.0" font-size="36" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
+<text x="150.0" y="72.0" font-size="40" fill="#1c1f26" font-weight="800" text-anchor="start">Production (LLMOps)</text>
+<text x="150.0" y="100.0" font-size="15" fill="#555a66" font-weight="400" text-anchor="start">6 weeks at 10 hrs/week. Cost, latency, safety, and reliability: where a demo becomes a product.</text>
+<path d="M64.0 150.0 L1040.0 150.0" fill="none" stroke="#6250d6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="124.0" cy="150.0" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="124.0" y="130.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Fine-tuning</text>
+<circle cx="315.5" cy="150.0" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="315.5" y="184.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Inference</text>
+<circle cx="507.0" cy="150.0" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="507.0" y="130.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Cost &amp; latency</text>
+<circle cx="698.5" cy="150.0" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="698.5" y="184.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Security &amp; red teaming</text>
+<circle cx="890.0" cy="150.0" r="8" fill="#ffffff" stroke="#6250d6" stroke-width="3.5"/>
+<text x="890.0" y="130.0" font-size="15" fill="#1c1f26" font-weight="700" text-anchor="middle">Shipping &amp; operating</text>
+<circle cx="1040.0" cy="150.0" r="12" fill="#ffffff" stroke="#1c1f26" stroke-width="4"/>
+<circle cx="1040.0" cy="150.0" r="6" fill="#1c1f26"/>
+<text x="1040.0" y="190.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="middle">Ship it</text>
+<text x="1040.0" y="128.0" font-size="13" fill="#9196a0" font-weight="400" text-anchor="middle">Build</text>
+<path d="M1040.0 150.0 L1150.0 150.0" fill="none" stroke="#1c1f26" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1158 140 L1176 150 L1158 160 Z" fill="#1c1f26"/>
+<text x="1186.0" y="156.0" font-size="15" fill="#1c1f26" font-weight="800" text-anchor="start">Careers</text>
+</g>
+</svg>

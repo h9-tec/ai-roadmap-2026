@@ -1,6 +1,6 @@
 # Layer 1: Foundations
 
-<img src="../assets/layer-1.svg" alt="Layer 1 of 5: Foundations" width="100%">
+<img src="../assets/line-1.svg" alt="Line 1 strip map: its stations and the project at the end" width="100%">
 
 **Time budget:** ~4 weeks at ~10 hrs/week
 

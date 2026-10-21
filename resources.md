@@ -1,5 +1,7 @@
 # Resources
 
+<img src="assets/legend-resources.svg" alt="Every stop, one list: the five lines" width="100%">
+
 Every link below is checked live with `scripts/check-links.sh`; to add one, read `CONTRIBUTING.md`.
 
 ## Layer 1: Foundations

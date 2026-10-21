@@ -1,5 +1,7 @@
 # Contributing
 
+<img src="assets/legend-contributing.svg" alt="Suggest a stop: how to add a resource" width="100%">
+
 Thanks for helping keep this roadmap short and trustworthy. Open an issue with the **Suggest a resource** template, or send a PR.
 
 ## The resource bar
