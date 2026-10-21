@@ -1,5 +1,7 @@
 # Layer 4: Evaluation
 
+<img src="../assets/layer-4.svg" alt="Layer 4 of 5: Evaluation" width="100%">
+
 **Time budget:** ~4 weeks at ~10 hrs/week
 
 > If you invest in one skill this year, make it evaluation engineering: eval pipelines, LLM-as-a-judge, and golden datasets.

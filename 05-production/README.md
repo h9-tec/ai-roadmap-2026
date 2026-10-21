@@ -1,5 +1,7 @@
 # Layer 5: Production (LLMOps)
 
+<img src="../assets/layer-5.svg" alt="Layer 5 of 5: Production (LLMOps)" width="100%">
+
 **Time budget:** ~6 weeks at ~10 hrs/week
 
 ## Why this layer exists

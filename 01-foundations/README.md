@@ -1,5 +1,7 @@
 # Layer 1: Foundations
 
+<img src="../assets/layer-1.svg" alt="Layer 1 of 5: Foundations" width="100%">
+
 **Time budget:** ~4 weeks at ~10 hrs/week
 
 ## Why this layer exists

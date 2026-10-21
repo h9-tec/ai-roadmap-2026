@@ -1,15 +1,22 @@
 # AI Roadmap 2026
 
+<p align="center">
+  <img src="assets/banner.svg" alt="AI Roadmap 2026: from zero to AI engineer in five layers" width="100%">
+</p>
+
+<p align="center">
+  <a href="00-start-here.md"><img alt="Start here" src="https://img.shields.io/badge/start-here-f1f5f9?style=for-the-badge&labelColor=0b1220"></a>
+  <img alt="5 layers" src="https://img.shields.io/badge/layers-5-eb6834?style=for-the-badge&labelColor=0b1220">
+  <img alt="About 25 weeks" src="https://img.shields.io/badge/path-~25%20weeks-6250d6?style=for-the-badge&labelColor=0b1220">
+  <a href="scripts/check-links.sh"><img alt="Links verified" src="https://img.shields.io/badge/links-verified%20live-1baf7a?style=for-the-badge&labelColor=0b1220"></a>
+  <a href="LICENSE"><img alt="License CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-2a78d6?style=for-the-badge&labelColor=0b1220"></a>
+</p>
+
 Per the [market analysis](careers/README.md#sources) this roadmap is built on, AI engineering in 2026 shifted from "train models" to "build reliable agentic systems" on top of models that already exist. The same analysis finds three skills repeated in every job description: RAG, Agents, and Evals. Per LinkedIn Jobs on the Rise 2026, AI Engineer is the fastest-growing job in the US, with 143% growth. This roadmap takes a beginner through those skills in five layers, each ending in a mini-project you can show. For job titles and the rest of the numbers, see [Careers](careers/README.md).
 
-```mermaid
-flowchart LR
-    L1["Layer 1<br/>Foundations"] --> L2["Layer 2<br/>LLM Engineering"]
-    L2 --> L3["Layer 3<br/>Agents"]
-    L3 --> L4["Layer 4<br/>Evaluation"]
-    L4 --> L5["Layer 5<br/>Production"]
-    style L4 fill:#fde68a,stroke:#b45309
-```
+<p align="center">
+  <img src="assets/roadmap.svg" alt="The five layers: Foundations, LLM Engineering, Agents, Evaluation, Production, with topics and the mini-project for each" width="100%">
+</p>
 
 > If you only learn one thing in 2026, make it evaluation engineering. Start with [Layer 4: Evaluation](04-evaluation/README.md).
 

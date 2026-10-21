@@ -1,5 +1,7 @@
 # Layer 3: Agents
 
+<img src="../assets/layer-3.svg" alt="Layer 3 of 5: Agents" width="100%">
+
 **Time budget:** ~5 weeks at ~10 hrs/week
 
 ## Why this layer exists
